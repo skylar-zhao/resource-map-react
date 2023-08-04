@@ -1,0 +1,623 @@
+[
+    {
+        "name": "Cornerstone Community Outreach",
+        "lat": "41.96716948407809",
+        "long": "-87.65887258709819",
+        "address": "4628 N Clifton Ave, Chicago, IL 60640",
+        "phone": "(773) 271 8163",
+        "hours": "7am-7pm",
+        "website": "https://www.ccolife.org/services-for-our-neighbors/",
+        "description": "Homeless shelter that offers food bags, free store for clothes, and dinner guest program.",
+        "categories": [
+            "Food",
+            "Clothing"
+        ]
+    },
+    {
+        "name": "Night Ministry Healthcare Bus",
+        "phone": "(773) 784 9000",
+        "website": "https://www.thenightministry.org/healthcare#bus",
+        "description": "Traveling outreach bus equipped with nurse’s office brings healthcare to underserved communities and provides food, survival supplies, and case management/referral services; refer to site for locations and schedule.",
+        "categories": [
+            "Healthcare"
+        ]
+    },
+    {
+        "name": "Greater Chicago Food Depository",
+        "lat": "41.8183149405049",
+        "long": "-87.72696565849361",
+        "address": "4100 W Ann Lurie Pl, Chicago, IL 60632",
+        "phone": "(773) 247 3663",
+        "website": "https://www.chicagosfoodbank.org/find-food/",
+        "description": "Use website to find groceries/hot meals. Cook County's food bank, connect to food pantries, soup kitches, & shelters.",
+        "categories": [
+            "Food"
+        ]
+    },
+    {
+        "name": "Rincon Family Services Living Room",
+        "lat": "41.94881135998484",
+        "long": "-87.70808493819375",
+        "address": "3710 N Kedzie Ave, Chicago, IL 60618",
+        "phone": "(773) 564 9070",
+        "hours": "M-F 10-6pm",
+        "website": "https://www.rinconfamilyservices.org/livingroom",
+        "description": "Services also offered in Spanish. The Living Room Program (LRP) is for individuals in need of crisis respite program with services and supports designed to proactively divert crises and break the cycle of psychiatric hospitalization. The LRP provides a safe, inviting, home-like atmosphere where individuals can calmly process the crisis event, as well as learn and apply wellness strategies which may prevent future crisis events. Along with the main living room space, they also offer private space, a meditation room, an art therapy room, gaming room, a library, a kitchenette with snacks and beverages, showers, and a washing machine/dryer.",
+        "categories": [
+            "Mental Health"
+        ]
+    },
+    {
+        "name": "Above and Beyond Family Treatment Center",
+        "lat": "41.88531326633775",
+        "long": "-87.70071534826953",
+        "address": "2942 W Lake St, Chicago IL 60612",
+        "phone": "(773) 940 2960",
+        "hours": "M-F 8:30am-5pm",
+        "website": "https://anb.today/",
+        "description": "Individualized recovery w/ support programs (12 Step, SMART, REBT, Art Therapy, Mindful Meditation) and success-based services (case management, housing by referral, employment).",
+        "categories": [
+            "Substance Use"
+        ]
+    },
+    {
+        "name": "Westside Health Authority’s (WHA) Community Employment Center",
+        "lat": "41.89539224436386",
+        "long": "-87.74600985096511",
+        "address": "5417 West Division, Chicago, IL 60651",
+        "phone": "(773) 786 0226",
+        "hours": "M-F 9am or 11:30am",
+        "website": "https://healthauthority.org/programs/employment-services/",
+        "description": "Westside Health Authority’s (WHA) Community Employment Center specializes in helping Chicago residents find pathways to employment and long-term career success, while servicing the human resources needs of local businesses. You will need your ID & Social Security card to register. If you don’t have ID’s, please contact our case manager for assistance.",
+        "categories": [
+            "Employment"
+        ]
+    },
+    {
+        "name": "Chicago Community Loan Fund",
+        "lat": "41.88272520420561",
+        "long": "-87.6266288178225",
+        "address": "29 E Madison St, Suite 1700, Chicago, IL 60602",
+        "phone": "(312) 252 0440",
+        "hours": "Call for hours.",
+        "website": "https://cclfchicago.org/",
+        "description": "Provides flexible loans for housing, commercial/economic development, social enterprises, and community facility space",
+        "categories": [
+            "Financial Aid"
+        ]
+    },
+    {
+        "name": "Broadway Youth Center (Howard Brown)",
+        "lat": "41.95423487224192",
+        "long": "-87.65551040000358",
+        "address": "1023 W Irving Park Rd, Chicago, IL 60613",
+        "phone": "(773) 299 7600",
+        "hours": "Check website for hours.",
+        "website": "https://howardbrown.org/service/broadway-youth-center/",
+        "description": "Walk-in center providing youth 12-24 w/ primary care services including hormones, STD/I screening, birth control, PrEP, vaccines, psychiatry, etc. Also provides assistance singing up for health insurance, education assistance, and mental wellness support.",
+        "categories": [
+            "Healthcare",
+            "LGBT+",
+            "Youth"
+        ]
+    },
+    {
+        "name": "Austin Community Family Center",
+        "lat": "41.89031299794911",
+        "long": "-87.76409189507146",
+        "address": "501 N. Central Ave, Chicago, IL, 60644",
+        "phone": "(773) 887 4317",
+        "hours": "9-5pm, call to set appointment",
+        "website": "http://acfamilycenter.org/",
+        "description": "Serves youth, families, adults, and seniors w/ activities & fitness, programs, and events",
+        "categories": [
+            "Family",
+            "Youth"
+        ]
+    },
+    {
+        "name": "Traffick ",
+        "phone": "(312) 884 1703",
+        "hours": "M 11am-6pm, W 11am-6pm, F 9am-4pm",
+        "website": "https://www.traffickfree.org/the-dropin-center",
+        "description": "Call/email for address. For adult female-identifying sex workers/trafficking victims",
+        "categories": [
+            "Sexual Assault"
+        ]
+    },
+    {
+        "name": "Between Friends Chicago",
+        "phone": "(800) 603 4357",
+        "website": "https://www.betweenfriendschicago.org/",
+        "description": "Programs to connect survivors and prevent/reduce SA. Their number is also a 24/7 hotline.",
+        "categories": [
+            "Sexual Assault",
+            "Domestic Violence"
+        ]
+    },
+    {
+        "name": "Englewood Community Service Center",
+        "lat": "41.75142943836931",
+        "long": "-87.65286251788034",
+        "address": "1140 W 79th St, Chicago, IL 60620",
+        "phone": "(312) 747 0200",
+        "hours": "M-F 9am-5pm",
+        "website": "https://www.chicago.gov/city/en/depts/fss/provdrs/serv/svcs/community_servicecenterlocations.html",
+        "description": "Community Service Centers help individuals and families in need access a wide range of resources from shelter, food and clothing to domestic violence assistance, job training/placement and services for the formerly incarcerated. Clients can also get information about rental, utility and other financial assistance programs. The centers also serve as warming and cooling centers during periods of extreme weather.",
+        "categories": [
+            "Food",
+            "Clothing",
+            "Domestic Violence",
+            "Employment",
+            "Reentry",
+            "Misc."
+        ]
+    },
+    {
+        "name": "Thresholds Living Room",
+        "lat": "41.96231224254319",
+        "long": "-87.67382938755787",
+        "address": "4423 N Ravenswood Ave, Chicago, IL 60640",
+        "phone": "(773) 537 3601",
+        "hours": "M-F 2-9pm",
+        "website": "https://www.thresholds.org/programs-services/peer-services/the-living-room",
+        "description": "The Living Room Program (LRP) is for individuals in need of crisis respite program with services and supports designed to proactively divert crises and break the cycle of psychiatric hospitalization. The LRP provides a safe, inviting, home-like atmosphere where individuals can calmly process the crisis event, as well as learn and apply wellness strategies which may prevent future crisis events. Along with Living Room services, it is housed in a building that also features many other on-site services that may be utilized by Thresholds clients, including a primary care clinic and pharmacy.",
+        "categories": [
+            "Mental Health"
+        ]
+    },
+    {
+        "name": "HAS (Healthcare Alternative Systems) Living Room - Belmont-Cragin",
+        "lat": "41.92400956636296",
+        "long": "-87.75142512790357",
+        "address": "5001 W Fullerton Ave, Chicago, IL 60639",
+        "phone": "(773) 235 5100",
+        "hours": "M-F 1-9pm",
+        "website": "https://www.hascares.org/program/the-living-room-fullerton/",
+        "description": "Services also offered in Spanish. The Living Room Program (LRP) is for individuals in need of crisis respite program with services and supports designed to proactively divert crises and break the cycle of psychiatric hospitalization. The LRP provides a safe, inviting, home-like atmosphere where individuals can calmly process the crisis event, as well as learn and apply wellness strategies which may prevent future crisis events.",
+        "categories": [
+            "Mental Health"
+        ]
+    },
+    {
+        "name": "Welcoming Center (Lutheran Social Services)",
+        "lat": "41.97628713053315",
+        "long": "-87.69876694137898",
+        "address": "5215 N California Ave, Suite F101, Chicago, IL 60625",
+        "phone": "(773) 561 5809",
+        "hours": "M-F 8-7pm",
+        "website": "https://www.lssi.org/welcoming-center.php",
+        "description": "The Welcoming Center is a mental health clinic for adults (18+) that offers counseling, case management, and psychiatric appointments. The Center is staffed with a team of nurses, social workers/counselors, peer specialists, and advanced practice nurses. Services include telehealth, immediate assessment and treatment, crisis services, fast-track to psychiatry services, counseling, case management, and support groups and peer counseling. These services are covered by Medicaid, Medicare, managed care, and private insurance.",
+        "categories": [
+            "Mental Health"
+        ]
+    },
+    {
+        "name": "Roseland Community Triage Center (HRDI)",
+        "lat": "41.6855466441998",
+        "long": "-87.61770222547801",
+        "address": "200 E 115th St, Chicago, IL 60628",
+        "phone": "(773) 291 2500",
+        "hours": "24/7",
+        "website": "https://www.hrdi.org/ctc.html",
+        "description": "Offers mental health crisis assessment, referrals, and counseling.",
+        "categories": [
+            "Mental Health"
+        ]
+    },
+    {
+        "name": "West Cook Homeownership Center",
+        "lat": "41.88816879912983",
+        "long": "-87.77368123504719",
+        "address": "5934 W. Lake St., Chicago, IL 60644",
+        "phone": "(773) 887 5187",
+        "hours": "\"M-W 9am-5pm, TH 9am-7pm, F by appointment 9am-3pm\"",
+        "website": "https://www.westcookhomeownership.org/programs-services/",
+        "description": "Homeownership counseling, foreclosure prevention, financial empowement, homeownership preservation, & down payment assistance",
+        "categories": [
+            "Financial Aid"
+        ]
+    },
+    {
+        "name": "Inspiration Kitchens Job Training",
+        "lat": "41.88499557639197",
+        "long": "-87.71406342297895",
+        "address": "3504 W. Lake St., Chicago, IL 60624",
+        "phone": "(773) 801-1110",
+        "website": "https://inspirationkitchens.org/job-training/",
+        "description": "Free 8-week job training program in food industry with paid training opportunities; fill out contact form on website to apply",
+        "categories": [
+            "Employment"
+        ]
+    },
+    {
+        "name": "Manufacturing Renaissance",
+        "website": "https://mfgren.org/career-pathway-services/",
+        "description": "See website for info; Career Pathway (job training, placements and support) for youth/young adults in the manufactuing industry",
+        "categories": [
+            "Employment"
+        ]
+    },
+    {
+        "name": "Jane Addams Resource Corporation",
+        "phone": "(773) 728 9769",
+        "website": "https://www.jane-addams.org/job-seekers/job-training-programs/",
+        "description": "See website for info; Job training programs in CNC, welding & more.",
+        "categories": [
+            "Employment"
+        ]
+    },
+    {
+        "name": "Beyond Hunger",
+        "lat": "41.88955573732376",
+        "long": "-87.79720694056697",
+        "address": "848 Lake St, Oak Park, IL 60301",
+        "phone": "(708) 386 1324",
+        "hours": "\"Su 9am-12pm, W 3:30pm-5:30pm\"",
+        "website": "https://www.gobeyondhunger.org/need-help",
+        "description": "Needs photo ID & proof of address in service area (see website) every visit. Food distribution w/ help to apply for bublic benefits. Also offers cooking classes",
+        "categories": [
+            "Food"
+        ]
+    },
+    {
+        "name": "The Pilsen Social Health Initiative",
+        "lat": "41.8571080058339",
+        "long": "-87.6586664797426",
+        "address": "1850 S Throop St, 2nd Floor, Chicago, IL 60608",
+        "phone": "(773) 230 9525",
+        "hours": "See website for hours.",
+        "website": "https://www.pilsensocialhealthinitiative.com/the-clothes-closet",
+        "description": "Anti-poverty services that include: thrift store with discount and free programs, food pantry, pro bono physical therapy services and medical supplies, children's library, etc.",
+        "categories": [
+            "Clothing",
+            "Food",
+            "Healthcare"
+        ]
+    },
+    {
+        "name": "Garfield Community Service Center",
+        "lat": "41.881271515890255",
+        "long": "-87.7065546178231",
+        "address": "10 S Kedzie Ave, Chicago, IL 60612",
+        "phone": "(312) 746 5400",
+        "hours": "M-F 9am-5pm",
+        "website": "https://www.chicago.gov/city/en/depts/fss/provdrs/serv/svcs/community_servicecenterlocations.html",
+        "description": "Community Service Centers help individuals and families in need access a wide range of resources from shelter, food and clothing to domestic violence assistance, job training/placement and services for the formerly incarcerated. Clients can also get information about rental, utility and other financial assistance programs. The centers also serve as warming and cooling centers during periods of extreme weather.",
+        "categories": [
+            "Food",
+            "Clothing",
+            "Domestic Violence",
+            "Employment",
+            "Reentry",
+            "Misc."
+        ]
+    },
+    {
+        "name": "Dr. Martin Luther King Community Service Center",
+        "lat": "41.81736381885217",
+        "long": "-87.60756470991215",
+        "address": "4314 S Cottage Grove Ave, Chicago, IL 60653",
+        "phone": "(312) 747 2300",
+        "hours": "M-F 9am-5pm",
+        "website": "https://www.chicago.gov/city/en/depts/fss/provdrs/serv/svcs/community_servicecenterlocations.html",
+        "description": "Community Service Centers help individuals and families in need access a wide range of resources from shelter, food and clothing to domestic violence assistance, job training/placement and services for the formerly incarcerated. Clients can also get information about rental, utility and other financial assistance programs. The centers also serve as warming and cooling centers during periods of extreme weather.",
+        "categories": [
+            "Food",
+            "Clothing",
+            "Domestic Violence",
+            "Employment",
+            "Reentry",
+            "Misc."
+        ]
+    },
+    {
+        "name": "North Area Community Service Center",
+        "lat": "41.96610423573861",
+        "long": "-87.65210796381602",
+        "address": "845 W Wilson Ave, 2nd Floor, Chicago, IL 60640",
+        "phone": "(312) 744-2580",
+        "hours": "M-F 9am-5pm",
+        "website": "https://www.chicago.gov/city/en/depts/fss/provdrs/serv/svcs/community_servicecenterlocations.html",
+        "description": "Community Service Centers help individuals and families in need access a wide range of resources from shelter, food and clothing to domestic violence assistance, job training/placement and services for the formerly incarcerated. Clients can also get information about rental, utility and other financial assistance programs. The centers also serve as warming and cooling centers during periods of extreme weather.",
+        "categories": [
+            "Food",
+            "Clothing",
+            "Domestic Violence",
+            "Employment",
+            "Reentry",
+            "Misc."
+        ]
+    },
+    {
+        "name": "South Chicago Community Service Center",
+        "lat": "41.73785512133606",
+        "long": "-87.55161213696609",
+        "address": "8650 S Commercial Ave, Chicago, IL 60617",
+        "phone": "(312) 747 0500",
+        "hours": "M-F 9am-5pm",
+        "website": "https://www.chicago.gov/city/en/depts/fss/provdrs/serv/svcs/community_servicecenterlocations.html",
+        "description": "Community Service Centers help individuals and families in need access a wide range of resources from shelter, food and clothing to domestic violence assistance, job training/placement and services for the formerly incarcerated. Clients can also get information about rental, utility and other financial assistance programs. The centers also serve as warming and cooling centers during periods of extreme weather.",
+        "categories": [
+            "Food",
+            "Clothing",
+            "Domestic Violence",
+            "Employment",
+            "Reentry",
+            "Misc."
+        ]
+    },
+    {
+        "name": "Trina Davila Community Service Center",
+        "lat": "41.910455057151545",
+        "long": "-87.73410752009926",
+        "address": "4312 W North Ave, Chicago, IL 60639",
+        "phone": "(312) 744 2014",
+        "hours": "M-F 9am-5pm",
+        "website": "https://www.chicago.gov/city/en/depts/fss/provdrs/serv/svcs/community_servicecenterlocations.html",
+        "description": "Community Service Centers help individuals and families in need access a wide range of resources from shelter, food and clothing to domestic violence assistance, job training/placement and services for the formerly incarcerated. Clients can also get information about rental, utility and other financial assistance programs. The centers also serve as warming and cooling centers during periods of extreme weather.",
+        "categories": [
+            "Food",
+            "Clothing",
+            "Domestic Violence",
+            "Employment",
+            "Reentry",
+            "Misc."
+        ]
+    },
+    {
+        "name": "A House in Austin",
+        "lat": "41.890208037773824",
+        "long": "-87.76335685591013",
+        "address": "533 N. Pine Ave, Chicago, IL 60644",
+        "phone": "(773) 234 1899",
+        "hours": "M-F 9-5pm, check programming on website",
+        "website": "https://www.ahouseinaustin.org/",
+        "description": "For parenting support w/ groups & weekly chat hour, parent/child music classes, home visiting program, wellness practices, educational tools.",
+        "categories": [
+            "Family"
+        ]
+    },
+    {
+        "name": "Westside Health Authority Youth Development Center",
+        "lat": "41.90206854082979",
+        "long": "-87.76245840972145",
+        "address": "5437 W Division St, Chicago, IL 60651",
+        "phone": "(773) 378-5034",
+        "hours": "M-F 9am-6:30pm",
+        "website": "https://healthauthority.org/programs/youth-development/",
+        "description": "Youth Development Programs for participants ages 14 through 24. Include mentoring & youth advocacy, workforce development, and enrichment.",
+        "categories": [
+            "Youth"
+        ]
+    },
+    {
+        "name": "Westside Health Authority",
+        "phone": "(773) 378-1878",
+        "website": "https://healthauthority.org/",
+        "description": "Several Locations; check website for more info. Offers youth development, community reentry, employment services, and support services.",
+        "categories": [
+            "Youth",
+            "Misc."
+        ]
+    },
+    {
+        "name": "The Peace Corner Youth Center",
+        "lat": "41.88074116579399",
+        "long": "-87.75114897870063",
+        "address": "5022 W. Madison St, Chicago, IL 60644",
+        "phone": "(773) 261 5330",
+        "hours": "See description. M-F 10-6:30pm",
+        "website": "http://thepeacecorner.org/",
+        "description": "Office hours are M-F 10-2pm during COVID. Serves youth w/ after school programs, summer (employment) programs, & volunteering opportunities.",
+        "categories": [
+            "Youth"
+        ]
+    },
+    {
+        "name": "Austin Coming Together",
+        "lat": "41.890208037773824",
+        "long": "-87.76335685591013",
+        "address": "5049 W. Harrison St, Chicago, Illinois 60644",
+        "phone": "(773) 417 8608",
+        "hours": "M-F 9-5",
+        "website": "https://austincomingtogether.org/how-we-help/",
+        "description": "Connects Austin residents w/ a whole bunch of resources, see website",
+        "categories": [
+            "Misc."
+        ]
+    },
+    {
+        "name": "Triple S – Southside Safe Space (Howard Brown)",
+        "lat": "41.749719951463554",
+        "long": "-87.69200800368819",
+        "address": "2747 W 79th St, Chicago, IL 60652",
+        "phone": "(773) 388 1600 ext 9",
+        "hours": "T,TH 12-7pm",
+        "website": "https://howardbrown.org/service/broadway-youth-center/",
+        "description": "Drop in space for trans/GNC people 12-29 to provide community, hot meal pick-up, gorcery gift cards, basic hygene kits, & resource advocacy",
+        "categories": [
+            "Youth",
+            "LGBT+"
+        ]
+    },
+    {
+        "name": "Brave Space Alliance",
+        "lat": "41.799740302394554",
+        "long": "-87.5885505490453",
+        "address": "1515 E 52nd Pl, 3rd Floor, Chicago, IL 60615",
+        "phone": "(872) 333 5199",
+        "hours": "M-F 9-5, Sa 10-3 ",
+        "website": "https://www.bravespacealliance.org/",
+        "description": "*COVID hours; serves LGBTQ w/ food pantry (delivery), makeup room, & hot meals, check website for hours on these drop-in programs, also have online programming/services",
+        "categories": [
+            "LGBT+"
+        ]
+    },
+    {
+        "name": "Center On Halsted",
+        "lat": "41.94894349018066",
+        "long": "-87.64974477630723",
+        "address": "3656 N. Halsted St, Chicago, IL 60613",
+        "phone": "(773) 472 6469",
+        "hours": "Check website.",
+        "website": "https://www.centeronhalsted.org/programsoverview.html",
+        "description": "Many programs centered on LGBTQ community, from cooking classes, yoga & volleyball games to job placement, HIV testing, and group therapy.",
+        "categories": [
+            "LGBT+",
+            "Youth",
+            "Misc."
+        ]
+    },
+    {
+        "name": "St. Joseph Services",
+        "website": "https://www.stjosephservices.org/services",
+        "description": "Several location in Austin, Avondale, Genview, & Humboldt, check website for more info. Offers youth programs, citizenship classes, computer literacy, English as Second Language classes, open gym, Spanish classes, volunteer opportunities.",
+        "categories": [
+            "Youth",
+            "Misc."
+        ]
+    },
+    {
+        "name": "Build Chicago",
+        "hours": "M-F 10-6:30pm",
+        "website": "https://www.buildchicago.org/",
+        "description": "Locations @ Austin & Humboldt; check website for more info. Serves youth w/ gang intervention, violence prevention, education, enrichment, mental health & wellness, & community engagement in Chicago's West Side",
+        "categories": [
+            "Youth"
+        ]
+    },
+    {
+        "name": "Erikson Institute",
+        "lat": "41.89064480045586",
+        "long": "-87.63208922838709",
+        "address": "451 N. LaSalle St, Chicago, IL 60654",
+        "website": "https://www.erikson.edu/services/",
+        "description": "Services for children and families, includes mental health sevices for families w/ childen up to 8 and services for families stuggling w/ a fussy baby. Also offers graduate & continuing education.",
+        "categories": [
+            "Family"
+        ]
+    },
+    {
+        "name": "Saint Leonard’s Ministry",
+        "lat": "41.88256978984409",
+        "long": "-87.67930022717863",
+        "address": "2100 W. Warren Blvd. Chicago, IL 60612",
+        "phone": "(312) 738 1414",
+        "hours": "M-F 9am-4pm",
+        "website": "https://slministries.org/",
+        "description": "Comprehensive residential, case management, and employment services for those released from prison without resources needed to rebuild their lives; volunteer opportunities.",
+        "categories": [
+            "Reentry"
+        ]
+    },
+    {
+        "name": "Ricon Family Services",
+        "phone": "Check website for number to appropriate service.",
+        "website": "https://www.rinconfamilyservices.org/",
+        "description": "Multiple Locations; Services include mental health, family, prevention mandated court, and in-home care.",
+        "categories": [
+            "Mental Health",
+            "Family",
+            "Misc."
+        ]
+    },
+    {
+        "name": "Thresholds",
+        "lat": "41.956248560239196",
+        "long": "-87.67367925567551",
+        "address": "4101 N. Ravenswood Ave. Chicago, IL 60613",
+        "phone": "(773) 572 5500",
+        "hours": "M-F 8:30am-5pm",
+        "website": "https://www.thresholds.org/",
+        "description": "Many service/programs, check website. They include: Substance Use Treatment, Intensive Outreach for Mental Health, Youth & Young Adult Services, Integrated Primary & Behavioral Healthcare, Justice Program, Deaf Program, Peer Services, Housing and Homelessness, Transitioning from Institutional Care, Veterans Project, IPS Employment Services, and Creative Arts Therapy",
+        "categories": [
+            "Substance Use",
+            "Mental Health",
+            "Youth",
+            "Employment",
+            "Reentry",
+            "Misc."
+        ]
+    },
+    {
+        "name": "HAS (Healthcare Alternative Systems)",
+        "website": "https://www.hascares.org/programs/",
+        "description": "Services are also offered in Spanish. Locations in Brighton Park, West Loop, Logan Square, Bucktown, and Belmont-Cragin. Many services avaliable, check website. They include: Anger Management, Assessment and Referral, Domestic Violence Program, Community Support Team (CST), Continuing Care, DUI Evaluation and Education, Medication Assisted Treatment, Mental Health Services, Outpatient/Intensive Outpatient Treatment, Partner Abuse Prevention Program (PAIP), Postpartum Depression, Probation/Parole Services, Recovery Support Services – Madden, Residential Treatment, The Living Room, Transitional Housing, and Youth Substance Abuse Treatment and Prevention",
+        "categories": [
+            "Mental Health",
+            "Substance Use",
+            "Domestic Violence",
+            "Misc."
+        ]
+    },
+    {
+        "name": "HRDI",
+        "website": "https://www.hrdi.org/services.html",
+        "phone": "(773) 291 2500",
+        "description": "Multiple locations in the South side, check website. Services include: Intake and Assessment, Substance Use Screening, Child & Adolescent, Outpatient Counseling and Therapy, School Based Interventions, Crisis Assessments (Jackson Park Hospital; St. Bernard Hospital; Roseland Triage Center), Residential Treatment & Group Living, Opioid Treatment (Medication Assisted Treatment), Team Based Services, Case Management, Care Transitions, Parenting Assessment, Health Risk Screening/Assessment, Treatment Planning, Housing Support, and Financial Benefit Support",
+        "categories": [
+            "Mental Health",
+            "Substance Use",
+            "Healthcare",
+            "Misc."
+        ]
+    },
+    {
+        "name": "Howard Brown Health",
+        "phone": "(773) 388 1600",
+        "website": "https://howardbrown.org/",
+        "description": "Multiple locations around Chicago. Offers healthcare for LGBT+ people, incuding access to hormones,  various other health services, STI/STD treatment, counseling, and more.",
+        "categories": [
+            "LGBT+",
+            "Youth",
+            "Family",
+            "Mental Health",
+            "Substance Use",
+            "Misc."
+        ]
+    },
+    {
+        "name": "Trilogy Behavioral Healthcare",
+        "lat": "42.010541886376274",
+        "long": "-87.66652146816503",
+        "address": "1400 W Greenleaf Ave, Chicago, IL 60626",
+        "phone": "(773) 508 6100",
+        "hours": "M-F 8am-4:30pm",
+        "website": "https://www.trilogyinc.org/trilogy-services/",
+        "description": "Multiple locations, check website. Many services centered on mental health.",
+        "categories": [
+            "Mental Health",
+            "Employment"
+        ]
+    },
+    {
+        "name": "El Rincon Community Clinic (Ricon Family Services)",
+        "lat": "41.90414509187472",
+        "long": "-87.72201906544097",
+        "address": "3809 W Grand Ave, Chicago, IL 60651",
+        "phone": "(773) 276 0200",
+        "hours": "M-F 5:30am-1pm, 3pm-5:30pm; Sa 7:30am-1pm",
+        "website": "https://www.rinconfamilyservices.org/substance-use-treatment",
+        "description": "Rincon offers bilingual, culturally relevant services to individuals enrolled in opioid maintenance treatment that include methadone, medical monitoring by staff physicians, Individual and group counseling, and toxicology testing.",
+        "categories": [
+            "Substance Use"
+        ]
+    },
+    {
+        "name": "Chicago Lights",
+        "lat": "41.89905288011219",
+        "long": "-87.62529800200151",
+        "address": "126 E Chestnut St, Chicago, IL 60611",
+        "phone": "(312) 640 2571",
+        "hours": "Check website for hours",
+        "website": "https://chicagolights.org/social-services/",
+        "description": "Chicago Lights offers Services at the Fourth Presbyterian Churc. They have a food pantry and a cloting shop, though they are appointment only due to COVID. They also have curbside drop-in resources that include clothing, toiletries (soap, toothpaste, lotion, incontinence products, menstruation products), housing and shelter information, public benefits information, referrals to other agencies, access to a guest phone, and information about neighborhood food pantries and meal services. Chicago Lights also offers youth programs, including tutoring, summer learning and enrichment, an urban farm, and a dance academy.",
+        "categories": [
+            "Food",
+            "Clothing",
+            "Youth",
+            "Misc."
+        ]
+    }
+]

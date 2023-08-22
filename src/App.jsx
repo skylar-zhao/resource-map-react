@@ -35,7 +35,6 @@ const App = () => {
   const [selectedCategories, setSelectedCategories] = useState([]);
   const [selectedResource, setSelectedResource] = useState("");
 
-
   let filteredList = [];
   if (selectedCategories.length > 0) {
     // filter method for determinig whether the resouece is included or not

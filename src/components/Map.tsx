@@ -1,4 +1,4 @@
-import React from "react";
+import { useEffect } from "react";
 import { Box } from "@mui/material";
 import { click } from "@testing-library/user-event/dist/click";
 // import { height } from "@mui/system";
@@ -22,6 +22,12 @@ const Map: React.FC<MapProps> = (props) => {
   const initialPosition: [number, number] = [
     41.88643789360485, -87.61537344100826,
   ];
+
+  // useEffect(() => {
+  //   if (selectedResource === resource)
+  //     // @ts-ignore
+  //     markerRef.current?.scrollIntoView?.({ behavior: "smooth" });
+  // }, [resource, selectedResource]);
   // const [mapPosition, setMapPosition] = useState(initialPosition);
   // const [map, setMap] = useState({});
 

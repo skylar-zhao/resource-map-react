@@ -1,5 +1,5 @@
 import { useRef, useEffect } from "react";
-import { Marker, Popup } from "react-leaflet";
+import { MapContainer, Marker, Popup } from "react-leaflet";
 import { Resource } from "../lib/types";
 
 interface MapMarkerProps {
@@ -11,7 +11,7 @@ interface MapMarkerProps {
 
 const MapMarker: React.FC<MapMarkerProps> = (props) => {
   const { resource, key, selectedResource, setSelectedResource } = props;
-  const markerRef = useRef(null);
+  const markerRef: any = useRef(null);
 
   function scrollIntoView(name: string) {
     let result = document.getElementById(name);
@@ -25,14 +25,10 @@ const MapMarker: React.FC<MapMarkerProps> = (props) => {
     scrollIntoView(name);
   }
 
-  // useEffect(() => {
-  //   if (selectedResource === )
-  //   markerRef.current.scrollIntoView({ behavior: "smooth" });
-  // }, []);
   return (
     <Marker
       ref={markerRef}
-      key={key}
+      // key={key}
       position={[+resource.lat, +resource.long]}
       eventHandlers={{
         click: function f() {
